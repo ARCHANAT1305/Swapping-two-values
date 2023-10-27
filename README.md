@@ -28,7 +28,10 @@ w = b
 b = a
 print("Swapped values are:",w,b)
 ```
+## OUTPUT :
 
+
+![Alt text](<Screenshot 2023-10-20 091602.png>)
 
 
 ## RESULT:
